@@ -12,12 +12,8 @@ You can visit [here](http://jwmneu.github.io) to see this blog.
 
 **使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
-<!--
-
 ## 特别声明
 
-第一批post主要来自于[handong1587](https://handong1587.github.io/)的博客。这个博客整理收集了行业内的很多有用的资源，希望有机会能多和他交流切磋。
-
--->
+###### 第一批post主要来自于[handong1587](https://handong1587.github.io/)的博客。这个博客整理收集了行业内的很多有用的资源，希望有机会能多和他交流切磋。
 
 
